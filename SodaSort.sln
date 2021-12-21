@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaSort", "SodaSort\SodaSort.csproj", "{A19D561F-14BA-4F5B-9C97-CF7535501502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19D561F-14BA-4F5B-9C97-CF7535501502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19D561F-14BA-4F5B-9C97-CF7535501502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19D561F-14BA-4F5B-9C97-CF7535501502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19D561F-14BA-4F5B-9C97-CF7535501502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDCAE53-1694-48F8-A3D7-F7623CAE07E2}
+	EndGlobalSection
+EndGlobal
